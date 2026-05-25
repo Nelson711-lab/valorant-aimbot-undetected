@@ -1,0 +1,18 @@
+{
+    "aimbot": {
+        "enabled": true,
+        "fov": 5.0,
+        "smoothness": 3.5,
+        "target_bone": "head",
+        "max_distance": 300
+    },
+    "triggerbot": {
+        "enabled": false,
+        "delay_min_ms": 120,
+        "delay_max_ms": 280
+    },
+    "display": {
+        "resolution": "1920x1080",
+        "fps_target": 60
+    }
+}
